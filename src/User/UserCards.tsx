@@ -82,7 +82,6 @@ const UserCards = () => {
                     <button className='btn btn-success mt-2'>Add user</button>
                 </form>}
             </div>
-
             <div className="input-group mb-3">
             <span className="input-group-text" id="basic-addon1">@</span>
             <input type="text" 
@@ -111,10 +110,8 @@ const UserCards = () => {
                 </div>
             </div>
         </div>
-        
         )}
       </div>     
-    
   );
 };
 
